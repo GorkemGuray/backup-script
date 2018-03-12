@@ -25,7 +25,7 @@ NAME='name_prefix'
 FROM_BACKUP_DIR='/path/for/from/backup/folder'
 
 # Which folder will the files be backed up to?
-# Don't use the "/"" at the end line
+# Don't use the "/"" at the end of line
 TO_BACKUP_DIR='/path/for/to/backup/folder'
 
 # Google Drive Directory ID to upload
