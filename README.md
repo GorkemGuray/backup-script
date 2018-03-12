@@ -21,6 +21,7 @@
  - A sample cron job (for backing up on Monday at 1:00 am UTC) :
 	 - Open the crontab editor with the  `crontab -e`  command.
     - Add the bottom line: `\* 1 * * 6 /backup.sh >/dev/null 2>&1`
+ - If tar, mysqldump, zip and gdrive commands are in different locations, please update `export PATH` line.
    
 
 
