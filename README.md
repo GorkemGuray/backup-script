@@ -7,7 +7,7 @@
  -   This script does not keep your backups on your server. Also, your Google Drive account may only have 1 backup.
  - You can run this script manually or automatically using cron.
  - If you use Cron, you can decide when backups will be taken.  Just remember that your Google Drive account has 1 backup.
- - For Turkish description please visit  https://patlatbi.net/sunucu-yedekleme-bash-scripti/
+
 
 
 ----------
